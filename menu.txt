@@ -1,0 +1,16 @@
++-----+    ______                               +-----+
+|/    |    |  ___|                              |    \| 
+|          | |_     ___   _ __   ___   __ _           | 
+|          |  _|   / _ \ | '__| / __| / _` |          |
+|          | |    | (_) || |   | (__ | (_| |          |  
+|          \_|     \___/ |_|    \___| \__,_|          |
+|\                                                   /|
+==========                                   ==========
+
+O objetivo deste jogo é descobrir uma palavra adivinhando as letras que ela possui a partir de uma dica.
+Caso o número de erros chegue a 6 você perderá o jogo, mas caso descubra todas as letras ganhará.
+O jogo inicia por padrão na dificuldade normal.
+Para alterar a dificuldade digite no menu:
+-  3 para Fácil
+-  4 para Normal
+-  5 para Difícil (Cada erro conta como dois)
